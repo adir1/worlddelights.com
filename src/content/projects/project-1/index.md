@@ -1,16 +1,20 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Merka.Cloud - Coming Soon!"
+summary: "Your turn-key solution for AI and beyond"
+date: "Mar 18 2024"
 draft: false
 tags:
+- Kubernetes
+- Azure
+- AWS
 - Astro
-- Javascript
 - Typescript
 - Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+demoUrl: https://merka.cloud
+repoUrl: https://github.com/worlddelights/merka.cloud
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# Merka.Cloud - Coming Soon
+
+A simple turn-key solution to all your needs, from complex AI training analysis, to classing integration and data management needs.
+

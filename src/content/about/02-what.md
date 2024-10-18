@@ -4,7 +4,12 @@ heading: "What We Do"
 
 At World Delights LLC, we specialize in guiding businesses through complex digital transformations, with a particular focus on the integration of AI tools and technologies. We are committed on delivering cutting-edge solutions, while also ensuring that our tools are intuitive, user-friendly, and enhance the overall experience for all your employees.
 
-Our services include a broad spectrum of IT needs, covering your technology journey—from strategy development to implementation and beyond. Here is how we can help:
+We specialize in using AI to rapidly evolve your business to the latest and most secure technologies. Our approach is also extremely cost-effective as we focus on the following challenges:
+
+    - Cloud migration and Cloud Automation, bringing modern DevSecOps to your business using latest generative AI methodology.
+    - Elimination of Technical Debt - again AI is used extensively to overhaul components that may otherwise take many men/years to modernize.
+
+In addition to above specialties we also offer broad spectrum of IT services, covering your technology journey—from strategy development to implementation and beyond. Here is how we can help:
 
 1. AI and Machine Learning Integration
 We help businesses harness the power of artificial intelligence (AI) and machine learning (ML) to unlock new growth opportunities, improve decision-making, and optimize operations. Our AI consultants work with you to:
@@ -15,7 +20,7 @@ We help businesses harness the power of artificial intelligence (AI) and machine
     - Train your teams on the effective use of AI tools to ensure seamless integration into your workflows.
 
 2. Digital Transformation Consulting
-We guide organizations through every phase of digital transformation, helping them modernize their operations and adopt new technologies to stay competitive in a rapidly evolving marketplace. Our digital transformation services include:
+We guide organizations through every phase of digital transformation, helping them modernize their operations and adopt cloud technologies, AI, mobile and other latest innovations in a rapidly evolving market. Our digital transformation services include:
 
     - Assessing your current technology stack and identifying areas for improvement.
     - Crafting a comprehensive roadmap for digital transformation aligned with your business goals.

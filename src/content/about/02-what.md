@@ -6,8 +6,8 @@ At World Delights LLC, we specialize in guiding businesses through complex digit
 
 We specialize in using AI to rapidly evolve your business to the latest and most secure technologies. Our approach is also extremely cost-effective as we focus on the following challenges:
 
-    - Cloud migration and Cloud Automation, bringing modern DevSecOps to your business using latest generative AI methodology.
-    - Elimination of Technical Debt - again AI is used extensively to overhaul components that may otherwise take many men/years to modernize.
+- Cloud migration and Cloud Automation, bringing modern DevSecOps/GitOps to your business using latest generative AI methodology.
+- Elimination of Technical Debt - again AI is used extensively to overhaul components that may otherwise take many men/years to modernize.
 
 In addition to above specialties we also offer broad spectrum of IT services, covering your technology journey—from strategy development to implementation and beyond. Here is how we can help:
 
